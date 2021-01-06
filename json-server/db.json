@@ -1,0 +1,16 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Running",
+      "dateStart": "2020-01-29T17:41:28:652Z",
+      "dateEnd": "2020-01-29T17:41:28:652Z"
+    },
+    {
+      "title": "Learning",
+      "dateStart": "2020-01-29T17:41:28:652Z",
+      "dateEnd": "2020-01-29T20:41:28:652Z",
+      "id": 2
+    }
+  ]
+}
