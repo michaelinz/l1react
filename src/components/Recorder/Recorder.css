@@ -2,11 +2,10 @@
     align-items: center;
     display: flex;
     justify-content: center;
-    margin: 60px 0 40px;
   }
   
   .recorder-record {
-    background: #e3f6f5;
+    background: lightblue;
     border: 0;
     border-radius: 50%;
     cursor: pointer;
@@ -15,7 +14,7 @@
   }
   
   .recorder-record span {
-    background: #f25042;
+    background: red;
     border-radius: 50%;
     display: inline-block;
     height: 24px;
